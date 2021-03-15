@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="payment">
+        <item></item>
+        <item>Cash on Delivery</item>
+    </string-array>
+    <string-array name="city">
+        <item></item>
+        <item>Belfast</item>
+        <item>Lisburn</item>
+        <item>Portadown</item>
+    </string-array>
+</resources>
